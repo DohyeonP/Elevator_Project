@@ -1,0 +1,4 @@
+dotmatrix.c:58:6:write_column_data	3
+dotmatrix.c:69:6:write_row_data	3
+dotmatrix.c:82:6:dotmatrix_clear	2
+dotmatrix.c:91:5:dotmatrix_processing	11
